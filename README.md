@@ -1,7 +1,7 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
@@ -12,3 +12,5 @@ https://aaroncox73.github.io/run-buddy2/
 
 ## Contribution
 Made with ❤️ by Aaron J. Cox
+
+### ©️2019 Run Buddy, Inc 
